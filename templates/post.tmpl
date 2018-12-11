@@ -1,0 +1,15 @@
+{{define "title"}}
+  {{.Title}}
+{{end}}
+
+{{define "content"}}
+      <h1>{{.Title}}</h1>
+      <p>
+        <em>
+          {{range .Tags}}
+            <a href="/tags/{{. | slug}}.html" title="Posts Tagged {{.}}">{{.}}</a>&nbsp;
+          {{end}}
+        </em>
+      </p>
+      {{.Content | html}}
+{{end}}

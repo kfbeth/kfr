@@ -1,0 +1,6 @@
+# Redirects from what the browser requests to what we serve
+/					/welcome.html
+#/home              /
+#/blog/my-post.php  /blog/my-post
+#/news              /blog
+#/google            https://www.google.com
