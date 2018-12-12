@@ -18,6 +18,6 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "", widget: "string"}
       - {label: "Publish-Date", name: "", widget: "date", format: "*MMM DD, YYYY*"}
-	  - {label: "Space", name: "", widget: "string"}
+      - {label: "Space", name: "", widget: "string"}
       - {label: "Tags", name: "", widget: "string"}
       - {label: "Body", name: "", widget: "markdown"}
