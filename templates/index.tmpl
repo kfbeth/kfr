@@ -12,8 +12,8 @@
             <h3><a href="/{{$e.Title | slug}}.html">{{$e.Title}}</a></h3>
             <small>
               <em>
-                {{range $e.Tags}}
-                  <a href="/tags/{{. | slug}}.html" title="Posts Tagged {{.}}">{{.}}</a>&nbsp;
+              Tags:  {{range $e.Tags}}
+              <a href="/tags/{{. | slug}}.html" title="Posts Tagged {{.}}">{{.}}</a>&nbsp;
                 {{end}}
               </em>
             </small>
