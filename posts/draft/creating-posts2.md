@@ -4,6 +4,7 @@
 
 *Docs, Basics*
 
+
 To create a post just add a [Markdown](https://en.wikipedia.org/wiki/Markdown)
 file in the `posts` directory. The file name and extension aren't important,
 only the content of the file.
@@ -45,5 +46,5 @@ directory.
 
 **Next**: [Generating HTML Files for a Blog, aka Building a Blog](/generating-html-files-for-a-blog-aka-building-a-blog.html) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTE0MjgwOV19
+eyJoaXN0b3J5IjpbLTE0Mjc0NjAyMTcsMTM2MTE0MjgwOV19
 -->
