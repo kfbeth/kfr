@@ -1,4 +1,4 @@
-# Creating Posts
+# Creating Posts For Tony
 
 *Nov 15, 2015*
 
@@ -44,3 +44,6 @@ of the `posts` directory. To unmark it just move it back to the `posts` director
 directory.
 
 **Next**: [Generating HTML Files for a Blog, aka Building a Blog](/generating-html-files-for-a-blog-aka-building-a-blog.html) 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM2MTE0MjgwOV19
+-->
