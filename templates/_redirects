@@ -1,5 +1,6 @@
 # Redirects from what the browser requests to what we serve
 /					/welcome.html
+/salishsea https://docs.google.com/forms/d/1a3RSgsHh20vgdD039a4xgyg_H4GoulhgSJx6noRs_h8/edit#response=ACYDBNgsJPQqQoQTM2iuDTTnqkzuCf9h7psnHMBLsalEH5BIlK9QyEC81vTbxw
 #/home              /
 #/blog/my-post.php  /blog/my-post
 #/news              /blog
