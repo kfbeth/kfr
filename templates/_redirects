@@ -1,7 +1,11 @@
 # Redirects from what the browser requests to what we serve
 /					/welcome.html
-/salishsea https://docs.google.com/forms/d/1a3RSgsHh20vgdD039a4xgyg_H4GoulhgSJx6noRs_h8/edit#response=ACYDBNgsJPQqQoQTM2iuDTTnqkzuCf9h7psnHMBLsalEH5BIlK9QyEC81vTbxw
 #/home              /
 #/blog/my-post.php  /blog/my-post
 #/news              /blog
 #/google            https://www.google.com
+/haven      https://docs.google.com/forms/d/1a3RSgsHh20vgdD039a4xgyg_H4GoulhgSJx6noRs_h8/edit#response=ACYDBNjEE39JjpL9uzRRrBUGKrUhLssr3oRHflFkg43j53B0lo75Uz4Fptw8-Q
+/sunset     https://docs.google.com/forms/d/1a3RSgsHh20vgdD039a4xgyg_H4GoulhgSJx6noRs_h8/edit#response=ACYDBNgfToZwzL6D-C0t5vKR_KqcOfB_0pkEJI3ok1DDjgBzuMtUs08vqrJIFQ
+/silva      https://docs.google.com/forms/d/1a3RSgsHh20vgdD039a4xgyg_H4GoulhgSJx6noRs_h8/edit#response=ACYDBNiuJUPnBmD8hHhxukyT64tQrza67xtwLLhrjjBu0DnVDKL055pQazkqfA
+/arbutus    https://docs.google.com/forms/d/1a3RSgsHh20vgdD039a4xgyg_H4GoulhgSJx6noRs_h8/edit#response=ACYDBNheRKWw_j9xngH5tr7wksH4wXZd73ySaONrYiiqbipROjO6HLQtnL_8Hg
+/salish     https://docs.google.com/forms/d/1a3RSgsHh20vgdD039a4xgyg_H4GoulhgSJx6noRs_h8/edit#response=ACYDBNgsJPQqQoQTM2iuDTTnqkzuCf9h7psnHMBLsalEH5BIlK9QyEC81vTbxw
