@@ -15,11 +15,12 @@ cabins/houses/B&B's for you and your family or friends to enjoy while moving loc
 
 ## More Information
 
-For more information call Beth at xxx-xxx-xxxx and plan your dream kayaking adventure in style!
+We are in the process of setting up this site. For more information call Beth at xxx-xxx-xxxx and plan your dream kayaking adventure in style!
 
 ## Map Of Our Sites
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1cRm9rBLq9bzLeRG05hVeY_ndT23i-mi9" width="640" height="480"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTE4OTcwLC0xMzk3NDkzMjQxXX0=
+eyJoaXN0b3J5IjpbLTIwNzQ1OTU2NTgsMTg1MTE4OTcwLC0xMz
+k3NDkzMjQxXX0=
 -->
