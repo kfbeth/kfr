@@ -6,8 +6,6 @@
 
 Welcome to the best kayaking you will find in the Southern Gulf Islands and doing it in style!
 
-
-
 ## About
 
 For a few years we have envisioned making kayaking more accessible to those that do not wish to camp
@@ -22,6 +20,6 @@ We are in the process of setting up this site. For more information call Beth at
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1cRm9rBLq9bzLeRG05hVeY_ndT23i-mi9" width="640" height="480"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3NTc2OTk2LDEzOTI1NjA2NjcsLTIwNz
-Q1OTU2NTgsMTg1MTE4OTcwLC0xMzk3NDkzMjQxXX0=
+eyJoaXN0b3J5IjpbLTE0NzQyNDM1MTIsMTM5MjU2MDY2NywtMj
+A3NDU5NTY1OCwxODUxMTg5NzAsLTEzOTc0OTMyNDFdfQ==
 -->
