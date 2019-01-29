@@ -6,7 +6,7 @@
 
 Welcome to the best kayaking you will find in the Southern Gulf Islands and doing it in style!
 
-![enter image description here](https://kayakfriendly.com/img/12.jpg)
+![enter image description here](/img/12.jpg)
 
 ## About
 
