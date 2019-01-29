@@ -5,7 +5,7 @@
 *Home, Welcome*
 
 Welcome to the best kayaking you will find in the Southern Gulf Islands and doing it in style!
-
+![enter image description here](http://padl.me/1.jpg)
 
 
 ## About
@@ -22,6 +22,6 @@ We are in the process of setting up this site. For more information call Beth at
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1cRm9rBLq9bzLeRG05hVeY_ndT23i-mi9" width="640" height="480"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3NTc2OTk2LC0yMDc0NTk1NjU4LDE4NT
-ExODk3MCwtMTM5NzQ5MzI0MV19
+eyJoaXN0b3J5IjpbMTM5MjU2MDY2NywtMjA3NDU5NTY1OCwxOD
+UxMTg5NzAsLTEzOTc0OTMyNDFdfQ==
 -->
