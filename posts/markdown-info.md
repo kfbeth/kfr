@@ -1,15 +1,15 @@
-# June 4 Test
+# Markdown Help
 
 *Jun 04, 2019*
 
 *New, Page*
 
-This is a new page
+---
 
 Headings
 
-# This is an Heading 1 tag
-## This is an Heading 2 tag
+# This is a Heading 1 tag
+## This is a Heading 2 tag
 ---
 Emphasis
 
