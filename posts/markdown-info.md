@@ -66,7 +66,7 @@ or
 
 YouTube Videos
 
-[![Short video description](http://img.youtube.com/vi/V29U8BCbzkg/0.jpg)](http://www.youtube.com/watch?v=V29U8BCbzkg)
+[![Short video description](https://img.youtube.com/vi/V29U8BCbzkg/0.jpg)](http://www.youtube.com/watch?v=V29U8BCbzkg)
 
 ---
 
