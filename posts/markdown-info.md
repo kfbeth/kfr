@@ -8,9 +8,9 @@ Help Start
 
 Headings
 
-# This is a Heading 1 tag
+# This is Heading 1
 
-## This is a Heading 2 tag
+## This is Heading 2 (smaller)
 
 ---
 
