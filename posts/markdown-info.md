@@ -9,8 +9,11 @@ Help Start
 Headings
 
 # This is a Heading 1 tag
+
 ## This is a Heading 2 tag
+
 ---
+
 Emphasis
 
 *This text will be italic*
