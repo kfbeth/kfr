@@ -7,10 +7,12 @@
 This is a new page
 
 Headings
+
 # This is an Heading 1 tag
 ## This is an Heading 2 tag
 
 Emphasis
+
 *This text will be italic*
 _This will also be italic_
 
