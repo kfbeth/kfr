@@ -24,9 +24,9 @@ Image
 
 ![I'm an image](https://kayakfriendly.com/img/12.jpg)
 
-Horizontal Rule, three or more hyphens
----
-
 YouTube Videos
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/V29U8BCbzkg/0.jpg)](http://www.youtube.com/watch?v=V29U8BCbzkg)
+
+Horizontal Rule, 3 or more hyphens
+---
