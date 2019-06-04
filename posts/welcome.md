@@ -4,19 +4,19 @@
 
 *Home, Welcome*
 
-Welcome to the best kayaking you will find in the Southern Gulf Islands and doing it in style!
+Welcome to the best kayaking you will find in the Southern Gulf Islands and doing it in comfort and style!
 
 ![kayaking](https://kayakfriendly.com/img/12.jpg)
 
 ## About
 
 For a few years we have envisioned making kayaking more accessible to those that do not wish to camp
-in tents on beaches. We have spent many weeks looking for and arranging for accomodation in multiple
-cabins/houses/B&B's for you and your family or friends to enjoy while moving locations during your trip.
+in tents on beaches. We have spent many weeks identifying accomodation in multiple
+cabins/houses/B&B's for you and your family or friends to enjoy during your trip. We're kayakers but canoeists could use this also.
 
 ## More Information
 
-We are in the process of setting up this site. For more information call Beth at xxx-xxx-xxxx and plan your dream kayaking adventure in style!
+We are in the process of setting up this site. If your property could be included or your information needs updating email Beth:   bethhaysom@shaw.ca 
 
 ## Map Of Our Sites
 
