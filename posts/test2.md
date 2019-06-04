@@ -12,10 +12,6 @@ https://imgur.com/a/EbXJJbU
 
 Link
 
-<https://imgur.com/a/EbXJJbU>
-
-Link
-
 [I'm a link](https://imgur.com/a/EbXJJbU)
 or
 [I'm a link with title](https://www.google.com "Google's Homepage")
