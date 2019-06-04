@@ -1,6 +1,6 @@
 # Welcome
 
-*Nov 19, 2014*
+*Jun 4, 2019*
 
 *Home, Welcome*
 
@@ -11,7 +11,7 @@ Welcome to the best kayaking you will find in the Southern Gulf Islands and doin
 ## About
 
 For a few years we have envisioned making kayaking more accessible to those that do not wish to camp
-in tents on beaches. We have spent many weeks identifying accomodation in multiple
+in tents on beaches. We have spent many weeks identifying accommodation in multiple
 cabins/houses/B&B's for you and your family or friends to enjoy during your trip. We're kayakers but canoeists could use this also.
 
 ## More Information
