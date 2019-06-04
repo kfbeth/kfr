@@ -6,23 +6,49 @@
 
 This is a new page
 
-Link
+Headings
+# This is an <h1> tag
+## This is an <h2> tag
 
+Emphasis
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+
+
+Lists
+Unordered
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
+Ordered
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+
+Image
+![I'm an image](https://kayakfriendly.com/img/12.jpg)
+
+Link
 https://imgur.com/a/EbXJJbU
 
 Link
-
 [I'm a link](https://imgur.com/a/EbXJJbU)
 or
 [I'm a link with title](https://www.google.com "Google's Homepage")
 
-Image
-
-![I'm an image](https://kayakfriendly.com/img/12.jpg)
+Horizontal Rule, three or more hyphens
+---
 
 YouTube Videos
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/V29U8BCbzkg/0.jpg)](http://www.youtube.com/watch?v=V29U8BCbzkg)
-
-Horizontal Rule, 3 or more hyphens
----
+[![Short video description](http://img.youtube.com/vi/V29U8BCbzkg/0.jpg)](http://www.youtube.com/watch?v=V29U8BCbzkg)
