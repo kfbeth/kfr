@@ -14,12 +14,15 @@ Headings
 Emphasis
 
 *This text will be italic*
+
 _This will also be italic_
 
 **This text will be bold**
+
 __This will also be bold__
 
 _You **can** combine them_
+
 ---
 
 Lists
@@ -42,6 +45,7 @@ Ordered
 Image
 
 ![I'm an image](https://kayakfriendly.com/img/12.jpg)
+
 ---
 
 Link
@@ -61,5 +65,6 @@ YouTube Videos
 [![Short video description](http://img.youtube.com/vi/V29U8BCbzkg/0.jpg)](http://www.youtube.com/watch?v=V29U8BCbzkg)
 
 ---
+
 Horizontal Rule, three or more hyphens
 ---
