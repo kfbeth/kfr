@@ -21,8 +21,4 @@ We are in the process of setting up this site. For more information call Beth at
 ## Map Of Our Sites
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1cRm9rBLq9bzLeRG05hVeY_ndT23i-mi9" width="640" height="480"></iframe>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTg3Njg2NiwxNDczNDA4MjI4LC0xND
-c0MjQzNTEyLDEzOTI1NjA2NjcsLTIwNzQ1OTU2NTgsMTg1MTE4
-OTcwLC0xMzk3NDkzMjQxXX0=
--->
+
