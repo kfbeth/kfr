@@ -13,7 +13,7 @@
             <small>
               <em>
               {{$e.Written.Format "Jan 2, 2006"}}&nbsp;
-              Tags:  {{range $e.Tags}}
+                {{range $e.Tags}}
               <a href="/tags/{{. | slug}}.html" title="Posts Tagged {{.}}">{{.}}</a>&nbsp;
                 {{end}}
               </em>
