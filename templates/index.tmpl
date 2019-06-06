@@ -8,7 +8,7 @@
       {{$l := len .}}
       {{range $i, $e := .}}
         
-          
+          {{ if ne $e.Title "Welcome" }}
             <h3><a href="/{{$e.Title | slug}}.html">{{$e.Title}}</a></h3>
             <small>
               <em>
@@ -19,7 +19,7 @@
               </em>
             </small>
             {{(printf "%s </br><small>[Read more](/%s.html)</small>" ($e.Content | summary) (.Title | slug)) | html}}
-          
+          {{end}}
         
 {{end}}
 {{end}}
