@@ -2,8 +2,6 @@
 
 *Jun 4, 2019*
 
-*Home, Welcome*
-
 Welcome to the best kayaking you will find in the Southern Gulf Islands and doing it in comfort and style!
 
 ![kayaking](https://kayakfriendly.com/img/12.jpg)
