@@ -6,6 +6,7 @@
       <h1>{{.Title}}</h1>
       <p>
         <em>
+        {{.Written.Format "Jan 2, 2006"}}&nbsp;
     Tags:  {{range .Tags}}
             <a href="/tags/{{. | slug}}.html" title="Posts Tagged {{.}}">{{.}}</a>&nbsp;
           {{end}}
