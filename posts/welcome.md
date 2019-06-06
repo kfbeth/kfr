@@ -18,5 +18,5 @@ We are in the process of setting up this site. If your property could be include
 
 ## Map Of Our Sites
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1cRm9rBLq9bzLeRG05hVeY_ndT23i-mi9" width="700" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1cRm9rBLq9bzLeRG05hVeY_ndT23i-mi9" width="900" height="480"></iframe>
 
