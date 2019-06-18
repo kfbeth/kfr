@@ -4,11 +4,11 @@
 #/blog/my-post.php  /blog/my-post
 #/news              /blog
 #/google            https://www.google.com
-/haven      
-/sunset     
-/silva      
-/arbutus    
-/salish     
+/gabriola-haven              /site-pdfs/Gabriola-The%20Haven.pdf
+/gabriola-sunset             /site-pdfs/Gabriola-Sunset%20Beach%20B%26B.pdf
+/gabriola-silvabay          /site-pdfs/Gabriola-Silva%20Bay%20House.pdf
+/galiano-arbutus            /site-pdfs/Galiano-Arbutus%20Bay%20Cottage.pdf
+/galiano-salish         /site-pdfs/Galiano-Salish%20Sea%20B%26B.pdf
 /mayne-bluevista        /site-pdfs/Mayne%20Isl%2C%20Blue%20Vista.pdf
 /mayne-mayneisland      /site-pdfs/Mayne%20Island%20Resort.pdf
 /pender-ainsliepoint    /site-pdfs/Pender%20Isl%2C%20Ainsley%20Cottage.pdf
@@ -29,3 +29,6 @@
 /saturna-fourwinds         /site-pdfs/Saturna%20Isl%2C%20Four%20Winds%20B%26B.pdf
 /saturna-sandybay          /site-pdfs/Saturna%20Isl%2C%20Sandy%20Bay%20B%26B.pdf
 /saturna-saturnalodge      /site-pdfs/Saturna%20Island%20Lodge.pdf
+/ladysmith-innofthesea      /site-pdfs/Ladysmith-Inn%20of%20the%20Sea%20Resort.pdf
+/gabriola-whalebone         /site-pdfs/Gabriola-Whalebone%20Guest%20House.pdf
+/cowichan-seasons           /site-pdfs/Cowichan%20Bay-Seasons%20above%20the%20Bay.pdf
