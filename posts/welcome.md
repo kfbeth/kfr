@@ -11,7 +11,8 @@ Welcome to the best kayaking you will find in the Southern Gulf Islands and doin
 For a few years we have envisioned making kayaking more accessible to those that do not wish to camp
 in tents on beaches. We have spent many weeks identifying accommodation in multiple
 cabins/houses/B&B's for you and your family or friends to enjoy during your trip. We're kayakers but canoeists could use this also.
-Note: We expect kayakers and canoeists to be responsible for their own safety.Trip planners need to be aware of local tides, currents and weather conditions. Some areas may only be suitable for experienced and skilled paddlers. If you don't know, don't go. 
+
+Note: We expect kayakers and canoeists to be responsible for their own safety. Trip planners need to be aware of local tides, currents and weather conditions. Some areas may only be suitable for experienced and skilled paddlers. If you don't know, don't go. 
 
 ## More Information
 
