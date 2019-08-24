@@ -2,7 +2,7 @@
 
 *Jun 4, 2019*
 
-Welcome to the best kayaking you will find in the Southern Gulf Islands and doing it in comfort and style!
+Welcome to the best kayaking you will find in the Southern Gulf Islands and beyond - and doing it in comfort and style!
 
 ![kayaking](https://kayakfriendly.com/img/12.jpg)
 
@@ -16,7 +16,8 @@ Note: We expect kayakers and canoeists to be responsible for their own safety. T
 
 ## More Information
 
-We are in the process of setting up this site. If your property could be included or your information needs updating email Beth:   bethhaysom@shaw.ca
+We are in the process of setting up this site. We started with the Southern Gulf Islands and now we're working our way up and around Vancouver Island. If your property could be included or your information needs updating email Beth:   bethhaysom@shaw.ca
+Paddlers please contact us if you know of a great place. Also send us descriptions of your lodging and trip experiences and we'll post those as short blogs. 
 
 ## Map Of Our Sites
 
