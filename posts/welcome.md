@@ -2,7 +2,7 @@
 
 *Jun 4, 2019*
 
-Welcome to kayak friendly, the best kayaking you will find in the Southern Gulf Islands and beyond - and doing it in comfort and style!
+Welcome to kayak friendly, the best kayaking you will find in the Southern Gulf Islands of British Columbia and beyond - and doing it in comfort and style!
 
 ![kayaking](https://kayakfriendly.com/img/12.jpg)
 
