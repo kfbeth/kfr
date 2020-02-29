@@ -1,6 +1,6 @@
 # Welcome
 
-*Spring 2020*
+*Feb 28, 2020*
 
 Welcome to kayak friendly, the way to go kayaking in the Gulf Islands of British Columbia and beyond in comfort and style!
 
