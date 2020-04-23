@@ -1,13 +1,14 @@
 # Welcome
 
-*Feb 28, 2020*
+*Apr 23, 2020*
 
-Welcome to kayak friendly, the way to go kayaking in the Gulf Islands of British Columbia and beyond in comfort and style!
-
+Covid 19 Update: Of course the Novel Coronavirus means that paddling to kayak friendly lodging is not possible right now. But it will be eventually, sooner rather than later we hope. So use this website to browse our listings, dream a little, plan a kayak trip or two in your mind and you'll be all set to go when the pandemic is over.
+ 
 ![kayaking](https://kayakfriendly.com/img/12.jpg)
 
 ## About
 
+Welcome to Kayak Friendly, the way to go kayaking in the Gulf Islands of British Columbia and beyond in comfort and style.
 For a few years we have envisioned making kayaking on multi day trips more accessible to those that do not wish to camp
 in tents on beaches. After much research we have identified 40 plus lodgings in various cabins, houses and B&Bs
 for you and your family or friends to enjoy during your trip. We're kayakers but canoeists could use this also.
