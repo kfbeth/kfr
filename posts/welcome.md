@@ -1,8 +1,8 @@
 # Welcome
 
-*Apr 23, 2020*
+*Aug 10, 2020*
 
-Covid 19 Update: Of course the Novel Coronavirus means that paddling to kayak friendly lodging is not possible right now. But it will be eventually, sooner rather than later we hope. So use this website to browse our listings, dream a little, plan a kayak trip or two in your mind and you'll be all set to go when the pandemic is over.
+Covid 19 Update: With Dr Bonnie Henry's blessing, paddling to kayakfriendly lodging is now possible for many of the locations listed on this website.  Where they are open, lodging hosts are doing everything they can to ensure their guests are safe. Now we can do our part by paddling in BC and supporting our local kayak friendly places. What better antidote to the coronavirus! So use this website to browse our listings; contact your chosen places to make sure they're operating, then plan a wonderful trip to enjoy our great outdoors.
  
 ![kayaking](https://kayakfriendly.com/img/12.jpg)
 
