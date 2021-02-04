@@ -1,0 +1,27 @@
+{{define "title"}}
+  Posts tagged {{.Name}}
+{{end}}
+
+{{define "content"}}
+
+      <h1>Posts Tagged <em>{{.Name}}</em></h1>
+
+
+      {{$l := len .Posts}}
+      {{range $i, $e := .Posts}}
+        
+          
+            <h2><a href="/{{$e.Title | slug}}.html">{{$e.Title}}</a></h2>
+            <small>
+              <em>
+                {{range $e.Tags}}
+                  <a href="/tags/{{. | slug}}.html" title="Posts Tagged {{.}}">{{.}}</a>&nbsp;
+                {{end}}
+              </em>
+            </small>
+            {{(printf "%s </br><small>[Read more](/%s.html)</small>" ($e.Content | summary) (.Title | slug)) | html}}
+         
+        
+{{end}}
+{{end}}
+
