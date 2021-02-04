@@ -8,7 +8,7 @@ Covid 19 Update: With Dr Bonnie Henry's blessing, paddling to kayakfriendly lodg
 
 ## About
 
-Welcome to Kayak Friendly, the way to go kayaking in the Gulf Islands of British Columbia and beyond in comfort and style.
+Welcome to Kayak Friendly, the way to go kayaking from Vancouver Island and the Salish Sea in comfort and style.
 For a few years we have envisioned making kayaking on multi day trips more accessible to those that do not wish to camp
 in tents on beaches. After much research we have identified 40 plus lodgings in various cabins, houses and B&Bs
 for you and your family or friends to enjoy during your trip. We're kayakers but canoeists could use this also.
