@@ -1,0 +1,26 @@
+{{define "title"}}
+  Kayak Friendly Gulf Islands
+{{end}}
+
+{{define "content"}}
+<h1>Kayak Friendly</h1>
+  
+      {{$l := len .}}
+      {{range $i, $e := .}}
+        
+          {{ if ne $e.Title "Welcome" }}
+            <h2><a href="/{{$e.Title | slug}}.html">{{$e.Title}}</a></h2>
+            <small>
+              <em>
+              {{$e.Written.Format "Jan 2, 2006"}}&nbsp;
+                {{range $e.Tags}}
+              <a href="/tags/{{. | slug}}.html" title="Posts Tagged {{.}}">{{.}}</a>&nbsp;
+                {{end}}
+              </em>
+            </small>
+            {{(printf "%s </br><small>[Read more](/%s.html)</small>" ($e.Content | summary) (.Title | slug)) | html}}
+          {{end}}
+        
+{{end}}
+{{end}}
+
