@@ -9,6 +9,7 @@
       {{range $i, $e := .}}
         
           {{ if ne $e.Title "Welcome" }}
+		  {{ if ne $e.Title "Quick Tides - Currents Search" }}
             <h2><a href="/{{$e.Title | slug}}.html">{{$e.Title}}</a></h2>
             <small>
               <em>
@@ -23,4 +24,4 @@
         
 {{end}}
 {{end}}
-
+{{end}}
