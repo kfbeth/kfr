@@ -2,7 +2,7 @@
 
 *Feb 20, 2021*
 
-Spring is coming and the ocean beckons
+**Spring is coming and the ocean beckons**
 
 Covid 19 caveat: Please be aware that when travel in BC gets the green light, some of the places on this website will reopen sooner than others. Some will make changes and may have to host fewer guests in order to be safe. Please check carefully with the individual operators when you're making trip plans. That said, what better way to support our local Vancouver Island kayak friendly places while having a wonderful time exploring our own beautiful ocean backyard.
  
