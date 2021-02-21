@@ -1,4 +1,4 @@
-# Welcome - Spring is coming and the ocean beckons
+# Welcome
 
 *Feb 20, 2021*
 
