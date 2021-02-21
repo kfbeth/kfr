@@ -1,8 +1,8 @@
-# Welcome
+# Welcome - Spring is coming and the ocean beckons
 
-*Aug 10, 2020*
+*Feb 20, 2021*
 
-Covid 19 Update: With Dr Bonnie Henry's blessing, paddling to kayakfriendly lodging is now possible for many of the locations listed on this website.  Where they are open, lodging hosts are doing everything they can to ensure their guests are safe. Now we can do our part by paddling in BC and supporting our local kayak friendly places. What better antidote to the coronavirus! So use this website to browse our listings; contact your chosen places to make sure they're operating, then plan a wonderful trip to enjoy our great outdoors.
+Covid 19 caveat : Please be aware that when travel in BC gets the green light, some of the places on this website will reopen sooner than others. Some will make changes and may have to host fewer guests in order to be safe. Please check carefully with the individual operators when you're making trip plans. That said, what better way to support our local Vancouver Island kayak friendly places while having a wonderful time exploring our own beautiful ocean backyard.
  
 ![kayaking](https://kayakfriendly.com/img/12.jpg)
 
