@@ -12,7 +12,7 @@ Covid 19 caveat: Please be aware that when travel in BC gets the green light, so
 
 Welcome to Kayak Friendly, the way to go kayaking from Vancouver Island and the Salish Sea in comfort and style.
 For a few years we have envisioned making kayaking on multi day trips more accessible to those that do not wish to camp
-in tents on beaches. After much research we have identified 40 plus lodgings in various cabins, houses and B&Bs
+in tents on beaches. After much research we have identified dozens of lodgings in various cabins, houses and B&Bs
 for you and your family or friends to enjoy during your trip. We're kayakers but canoeists could use this also.
 
 How to use the website: Find an area that you'd like to explore on the map below then click on the kayak friendly places to stay that we've flagged for you. The link will take you to an information page designed for paddlers. From there you can contact the lodging  directly to make your booking.  
