@@ -1,6 +1,6 @@
 # Welcome
 
-* March 6, 2021*
+* March 6, 2021 *
 
 ## Spring is coming and the ocean beckons
 
