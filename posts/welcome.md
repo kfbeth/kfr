@@ -1,6 +1,6 @@
 # Welcome
 
-*Feb 20, 2021*
+* March 6, 2021*
 
 ## Spring is coming and the ocean beckons
 
@@ -11,18 +11,18 @@ Covid 19 caveat: Please be aware that when travel in BC gets the green light, so
 ## About
 
 Welcome to Kayak Friendly, the way to go kayaking from Vancouver Island and the Salish Sea in comfort and style.
-For a few years we have envisioned making kayaking on multi day trips more accessible to those that do not wish to camp
-in tents on beaches. After much research we have identified dozens of lodgings in various cabins, houses and B&Bs
-for you and your family or friends to enjoy during your trip. We're kayakers but canoeists could use this also.
+Our main goal is to make kayaking on daytrips more accessible to those who prefer not to camp. After much research we have identified dozens of lodgings in various cabins, houses and B&Bs throughout southern coastal BC for paddlers to enjoy knowing that there will be a roof, beds, showers and a place to eat at the end of the day.
 
-How to use the website: Find an area that you'd like to explore on the map below then click on the kayak friendly places to stay that we've flagged for you. The link will take you to an information page designed for paddlers. From there you can contact the lodging  directly to make your booking.  
+## How to use this website
+
+Find an area that you'd like to explore on the map below then click on the kayak friendly places to stay that we've flagged for you. The link will take you to an information page designed for paddlers. From there you can contact the lodging  directly to make your booking.  
 
 Note: We expect kayakers and canoeists to be responsible for their own safety. Trip planners need to be aware of local tides, currents and weather conditions. Some areas may only be suitable for experienced and skilled paddlers. If you don't know, don't go. 
 
-## More Information
+## More Information - contact us
 
-Now we want to hear from you. This site is a work in progress. We started with the Southern Gulf Islands and now we're working our way up and around Vancouver Island. If your property could be included or your information needs updating email Beth:   bethhaysom@shaw.ca
-Paddlers please contact us if you know of a great place. Also send us short descriptions of your lodging and trip experiences and we'll post those as short blogs. 
+Now we want to hear from you. This Kayak Friendly website is a free resource and a work in progress. If your property could be included or your information needs updating please contact us - Beth:   bethhaysom@shaw.ca or Debbie: director3@siska.ca
+Paddlers please email us if you know of a great place. Also send us short descriptions of your lodging and trip experiences and we'll post those as short blogs. 
 
 ## Map Of Our Sites
 
