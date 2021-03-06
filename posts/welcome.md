@@ -2,7 +2,7 @@
 
 * March 6, 2021 *
 
-## Spring is coming and the ocean beckons
+## Spring is almost here and the ocean beckons
 
 Covid 19 caveat: Please be aware that when travel in BC gets the green light, some of the places on this website will reopen sooner than others. Some will make changes and may have to host fewer guests in order to be safe. Please check carefully with the individual operators when you're making trip plans. That said, what better way to support our local Vancouver Island kayak friendly places while having a wonderful time exploring our own beautiful ocean backyard.
  
@@ -19,7 +19,7 @@ Find an area that you'd like to explore on the map below then click on the kayak
 
 Note: We expect kayakers and canoeists to be responsible for their own safety. Trip planners need to be aware of local tides, currents and weather conditions. Some areas may only be suitable for experienced and skilled paddlers. If you don't know, don't go. 
 
-## More Information - contact us
+## More information - contact us
 
 Now we want to hear from you. This Kayak Friendly website is a free resource and a work in progress. If your property could be included or your information needs updating please contact us - Beth:   bethhaysom@shaw.ca or Debbie: director3@siska.ca
 Paddlers please email us if you know of a great place. Also send us short descriptions of your lodging and trip experiences and we'll post those as short blogs. 
