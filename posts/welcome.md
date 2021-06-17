@@ -1,4 +1,4 @@
-# Welcome To Kayak Freindly
+# Welcome
 
 *Jun 17, 2021*
 
