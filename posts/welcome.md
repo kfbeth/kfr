@@ -1,6 +1,6 @@
 # Welcome
 
-*June 17, 2021*
+*Jun 17, 2021*
 
 ## Kayak Friendly tops 100 lodgings!
 
